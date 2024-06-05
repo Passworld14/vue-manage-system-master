@@ -15,11 +15,7 @@
         </div>
         <div class="header-right">
             <div class="header-user-con">
-                <div class="btn-icon" @click="router.push('/theme')">
-                    <el-tooltip effect="dark" content="设置主题" placement="bottom">
-                        <i class="el-icon-lx-skin"></i>
-                    </el-tooltip>
-                </div>
+                
                 <div class="btn-icon" @click="router.push('/ucenter')">
                     <el-tooltip
                         effect="dark"
@@ -47,10 +43,10 @@
                     </span>
                     <template #dropdown>
                         <el-dropdown-menu>
-                            <a href="https://github.com/lin-xin/vue-manage-system" target="_blank">
+                            <a href="https://github.com/Passworld14/vue-manage-system-master" target="_blank">
                                 <el-dropdown-item>项目仓库</el-dropdown-item>
                             </a>
-                            <a href="https://lin-xin.gitee.io/example/vuems-doc/" target="_blank">
+                            <a href="https://github.com/Passworld14/vue-manage-system-master" target="_blank">
                                 <el-dropdown-item>官方文档</el-dropdown-item>
                             </a>
                             <el-dropdown-item command="user">个人中心</el-dropdown-item>

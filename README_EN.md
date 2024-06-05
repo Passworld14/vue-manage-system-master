@@ -16,13 +16,9 @@
     <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
   </a>
 
-The web management system solution based on Vue3 and ElementPlus。[live demo](https://lin-xin.gitee.io/example/work/)
-
-Please check the version of vue2 in [tag V4.2.0](https://github.com/lin-xin/vue-manage-system/tree/V4.2.0)
 
 ## Donation
 
-![WeChat](https://lin-xin.gitee.io/images/weixin.jpg)
 
 ## Preface
 

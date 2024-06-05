@@ -140,15 +140,7 @@ const routes: RouteRecordRaw[] = [
                 },
                 component: () => import(/* webpackChunkName: "import" */ '../views/table/import.vue'),
             },
-            {
-                path: '/theme',
-                name: 'theme',
-                meta: {
-                    title: '主题设置',
-                    permiss: '7',
-                },
-                component: () => import(/* webpackChunkName: "theme" */ '../views/pages/theme.vue'),
-            },
+
             {
                 path: '/calendar',
                 name: 'calendar',

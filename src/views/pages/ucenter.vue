@@ -9,14 +9,14 @@
                 <div class="user-info">
                     <div class="info-name">{{ name }}</div>
                     <div class="info-desc">
-                        <span>#</span>
+                        <span>林镇</span>
                         <el-divider direction="vertical" />
-                        <el-link href="#" target="_blank">#</el-link>
+                        <el-link href="https://github.com/Passworld14/vue-manage-system-master" target="_blank">lin_github</el-link>
                     </div>
                     <div class="info-desc">FE Developer</div>
                     <div class="info-icon">
-                        <a href="#" target="_blank"> <i class="el-icon-lx-github-fill"></i></a>
-                        <i class="el-icon-lx-qq-fill"></i>
+                        <a href="https://github.com/Passworld14/vue-manage-system-master" target="_blank"> <i class="el-icon-lx-github-fill"></i></a>
+                        <a href="tencent://message/?uin=2925864581&Site=&menu=yes" target="_blank"> <i class="el-icon-lx-qq-fill"></i></a>
                         <i class="el-icon-lx-facebook-fill"></i>
                         <i class="el-icon-lx-twitter-fill"></i>
                     </div>
