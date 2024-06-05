@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="plugins-tips">
 			vue-schart：vue.js封装sChart.js的图表组件。 访问地址：
-			<a href="https://github.com/lin-xin/vue-schart" target="_blank">vue-schart</a>
+			<a href="https://github.com/Passworld14/vue-manage-system-master" target="_blank">vue-schart</a>
 		</div>
 		<el-card class="mgb20" shadow="hover">
 			<template #header>

@@ -33,7 +33,7 @@
 			</ul>
 		</el-tab-pane>
 		<el-tab-pane label="Element图标">
-			<el-link type="primary" href="https://element-plus.org/zh-CN/component/icon.html#icon-collection"
+			<el-link type="primary" href="https://github.com/Passworld14/vue-manage-system-master"
 				target="_blank">前往官方文档查看</el-link>
 		</el-tab-pane>
 	</el-tabs>
